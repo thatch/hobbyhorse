@@ -1,0 +1,4 @@
+[[rule]]
+name = "printf_repr"
+impl = "python"
+inputs = ["*.py"]

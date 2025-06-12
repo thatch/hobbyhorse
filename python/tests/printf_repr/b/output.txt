@@ -1,0 +1,2 @@
+demo.py:4:0: Consider using %r for repr
+demo.py:5:0: Consider using %r for repr
